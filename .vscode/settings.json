@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/57fb771a-976b-4fed-b98f-1c659e141d5f/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/fullstackactividad",
+    "appService.deploySubpath": "."
+}
